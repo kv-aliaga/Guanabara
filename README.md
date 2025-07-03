@@ -1,5 +1,5 @@
 ### 📊 Progresso do Projeto
 
-**CURSO DE PYTHON (82.65%)**
+**CURSO DE PYTHON (91.3%)**
 
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (82.65%)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (91.3%)
