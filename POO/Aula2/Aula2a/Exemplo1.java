@@ -1,4 +1,4 @@
-package Aula1;
+package Aula2.Aula2a;
 
 public class Exemplo1 {/*
     OBJETO é material ou abstrato

@@ -1,4 +1,4 @@
-package Aula1;
+package Aula2.Aula2a;
 // Cria uma classe para algo imaterial
 //  Tema: Ler um livro
 

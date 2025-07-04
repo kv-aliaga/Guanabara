@@ -1,30 +1,29 @@
-package Aula2;
-// como definir classe, instanciar objetos, mexer nos atributos e métodos, mostrando o estado atual de cada objeto
+package Aula3.Aula3b;
 
 public class Caneta {
     // atributos
-    String modelo;
-    String cor;
-    double ponta;
-    int carga;
-    boolean tampada;
+    public String modelo;
+    public String cor;
+    private double ponta;
+    protected int carga;
+    private boolean tampada;
 
     // métodos
-    void rabiscar(){
+    public void rabiscar(){
         if (this.tampada){
             System.out.println("Destampe a caneta para rabiscar");
         } else{
             System.out.println("Rabiscando");
         }
     }
-    void tampar(){
+    public void tampar(){
         this.tampada = true;
     }
-    void destampar(){
+    public void destampar(){
         this.tampada = false;
     }
     void status(){
-                                                // this se refere ao nome do objeto que o chamou, referência ao próprio objeto.
+        // this se refere ao nome do objeto que o chamou, referência ao próprio objeto.
         System.out.printf("Caneta %s, %s caneta\n", this.cor, this.cor);
         System.out.println("Está tampada? " + this.tampada);
         System.out.println("O modelo é:  " + this.modelo);
@@ -32,3 +31,4 @@ public class Caneta {
         System.out.println("A carga esta: " + this.carga + "% cheia");
     }
 }
+
