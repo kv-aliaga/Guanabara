@@ -6,6 +6,6 @@
 
 <br>
 
-**CURSO DE POO EM JAVA (80%)**
+**CURSO DE POO EM JAVA (86.6%)**
 
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ (80%)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ (86.6%)
