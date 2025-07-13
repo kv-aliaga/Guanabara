@@ -18,6 +18,6 @@
 
 <br>
 
-**CURSO DE JAVASCRIPT (64.71%)**
+**CURSO DE JAVASCRIPT (70.69%)**
 
-🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ (64.71%)
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ (70.69%)

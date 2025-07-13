@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta name="autor" content="kv-aliaga">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Verificador de Idade</title>
+</head>
+<body onload="verificar()">
+    <header>
+        <h1>
+            Verificador de Idade
+        </h1>
+    </header>
+
+    <section>
+        <div id="nascimento">
+            Ano de Nascimento: 
+            <input type="number" name="anonasc" id="anonasc">
+        </div>
+
+        <div id="genero">
+            <label for="genero">Gênero:</label>
+
+            <label>
+            <input type="radio" name="genero" value="masculino"> Masculino
+            </label>
+
+            <label>
+            <input type="radio" name="genero" value="feminino"> Feminino
+            </label>
+        </div>
+
+        <div id="verificar">
+            <button onclick="verificar()">Verificar</button>
+        </div>
+        Preencha os dados acima para ver o resultado!
+
+        <div>
+            <div id="r"></div>
+            <img src="" alt="" id="foto" height="">
+        </div>
+    </section>
+
+    <footer>
+        &copy; Curso em video
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
