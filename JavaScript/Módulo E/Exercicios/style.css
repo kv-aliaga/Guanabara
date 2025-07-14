@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(6, 52, 104);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: large;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: black;
+    /* Box Shadow destrubí as formas de que: são sombreamento lateral, vertical e horizontal*/
+    box-shadow: 5px 5px 10px black;
+}
+
+div{
+    padding: 8px;
+}
+
+footer{
+    padding: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+#resultado{
+    word-wrap: break-word;
+}
